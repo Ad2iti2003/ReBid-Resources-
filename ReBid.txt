@@ -1,0 +1,68 @@
+===============================
+        APP DEVELOPMENT PLAN
+===============================
+
+App Name: ReBid
+Tagline: Re-bidding old items for new owners
+
+Description:
+ReBid is a mobile platform that helps users sell their pre-owned products 
+through a bidding system. The app provides a seamless experience for listing, 
+bidding, and communication between buyers and sellers.
+
+--------------------------------------------------
+TECH STACK
+--------------------------------------------------
+- Frontend: React Native
+- Backend: Node.js + Express.js
+- Database & Authentication: Firebase
+- Version Control: Git / GitHub
+- Deployment: Google Play Store
+
+--------------------------------------------------
+IMPORTANT LINKS
+--------------------------------------------------
+- Rough Diagram (Excalidraw): 
+  https://excalidraw.com/#json=7uK_SBmmBMTv37DDy1CvZ,q5dex72geu0vqzlAo8sxYQ
+
+--------------------------------------------------
+CORE SERVICES
+--------------------------------------------------
+1. Authentication Service (Login/Signup)
+   - User registration and login
+   - User verification (email/phone/OTP)
+
+2. Listing Service
+   - Users can list products with details (title, description, images, price)
+   - Product updates and visibility management
+
+3. Notification Service
+   - Alerts for new bids, product updates, and system messages
+
+4. Bidding Service
+   - Manages the bidding process
+   - Real-time updates on highest bids
+
+5. Payment Service (Under consideration)
+   - Secure payments between buyers and sellers
+   - Integration with third-party payment gateways (future scope)
+
+6. Chat Service
+   - Real-time messaging between buyers and sellers
+   - Basic chat features (text, timestamp, read status)
+
+7. User Service
+   - User profiles with CRUD operations
+   - Profile updates, activity history, preferences
+
+8. Customer Service
+   - Handles user queries, complaints, and feedback
+   - In-app support or ticket-raising system
+
+--------------------------------------------------
+THEME & BRANDING
+--------------------------------------------------
+- Primary Color (Highlighter): #0b0f72 
+- Major Background Color:      #ffffff
+- Secondary Highlighter:       #b4b4b4 / #F4EFEF
+- Accent/Third Highlighter:    #ff684d
